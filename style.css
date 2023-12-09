@@ -82,12 +82,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*  */
+    font-size: 1rem;
+    line-height: 1rem;
     background-color: hsla(216, 12%, 54%, 0.25);
     border-radius: 50%;
     width: 2.4rem;
     height: 2.4rem;
-    padding: ;
+    padding: 0;
     color: hsl(217, 12%, 63%);
     cursor: pointer;
 }
