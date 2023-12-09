@@ -42,8 +42,8 @@ body {
     padding: 1.4rem;
     display: flex;
     flex-direction: column;
-    gap: 1.7rem;
-    height: 350px;
+    gap: 1.4rem;
+    height: 355px;
 }
 
 .ratestate figure {
@@ -54,6 +54,13 @@ body {
     border-radius: 50%;
     width: 2.4rem;
     height: 2.4rem;
+}
+
+.ratestate figure img {
+    justify-self: center;
+    align-self: center;
+    width: 1.2rem;
+    height: 1.2rem;
 }
 
 .ratestate h1 {
@@ -97,10 +104,9 @@ body {
 
 .ratestate button {
     background-color: hsl(25, 97%, 53%);
-    color: ;
     border: none;
-    border-radius: 20px;
-    height: 2.5rem;
+    border-radius: 30px;
+    height: 3.2rem;
     color: hsl(0, 0%, 100%);
     letter-spacing: 4px;
     cursor: pointer;
